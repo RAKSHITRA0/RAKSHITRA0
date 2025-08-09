@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Rakshit Rao
 
-<h3>I'm a 15 y/o builder, designer, and explorer of all things tech, games, AI, and chaos.</h3></br>
+<h3>I'm a 16 y/o builder, designer, and explorer of all things tech, games, AI, and chaos.</h3></br>
 
 ## 🚧 What I’m Building
 - 🦸‍♂️ **Ascendant** – An open-world PC superhero game built in Godot 4. Epic powers, rich story, dark twists.
